@@ -33,14 +33,33 @@ package object scalashop {
   /** Image is a two-dimensional matrix of pixel values. */
   class Img(val width: Int, val height: Int, private val data: Array[RGBA]) {
     def this(w: Int, h: Int) = this(w, h, new Array(w * h))
+
     def apply(x: Int, y: Int): RGBA = data(y * width + x)
+
     def update(x: Int, y: Int, c: RGBA): Unit = data(y * width + x) = c
   }
 
   /** Computes the blurred RGBA value of a single pixel of the input image. */
   def boxBlurKernel(src: Img, x: Int, y: Int, radius: Int): RGBA = {
-    // TODO implement using while loops
-    ???
+    var r = 0
+    var g = 0
+    var b = 0
+    var a = 0
+    var cntPixel = 0
+    val ymin = clamp(y - radius, 0, src.height-1)
+    val ymax = clamp(y + radius, 0, src.height-1)
+    val xmin = clamp(x - radius, 0, src.width-1)
+    val xmax = clamp(x + radius, 0, src.width-1)
+    for (py <- ymin to ymax) {
+      for (px <- xmin to xmax) {
+        r += red(src(px, py))
+        g += green(src(px, py))
+        b += blue(src(px, py))
+        a += alpha(src(px, py))
+        cntPixel += 1
+      }
+    }
+    rgba(r / cntPixel, g / cntPixel, b / cntPixel, a / cntPixel)
   }
 
 }
