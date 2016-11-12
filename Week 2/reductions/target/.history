@@ -1,0 +1,13 @@
+runMain reductions.ParallelCountChangeRunner
+ runMain reductions.ParallelCountChangeRunner
+runMain reductions.ParallelCountChangeRunner
+test
+test ParallelParenthesesBalancingSuite
+clear
+test ParallelParenthesesBalancingSuite
+test
+runMain reductions.ParallelCountChangeRunner
+runMain reductions.LineOfSightRunner
+submit wojtekk@gmail.comOmItwdTcLmlaWpgC
+submit wojtekk@gmail.com OmItwdTcLmlaWpgC
+submit wojtekk@gmail.com GPUP9NXSqVGfW0aX

@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f258a5e4-5efb-4ec6-98ff-c28d2a21f5b9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$188b3a5dff9836017945$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$188b3a5dff9836017945$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$188b3a5dff9836017945.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$2bc41fbff3072df2513e$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$2bc41fbff3072df2513e$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$2bc41fbff3072df2513e.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$326a73d01f7bc0c0d8cc$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$326a73d01f7bc0c0d8cc$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$326a73d01f7bc0c0d8cc.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$e9b63db92f9eef26466a$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$e9b63db92f9eef26466a$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$e9b63db92f9eef26466a.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$f6703f381e3a657db42e$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$f6703f381e3a657db42e.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$f92d32dd217a79960888$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$f92d32dd217a79960888.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$24b8cc230fc56ae1126e$$anonfun$$sbtdef$1$$anonfun$apply$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$24b8cc230fc56ae1126e$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$24b8cc230fc56ae1126e$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$24b8cc230fc56ae1126e.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$35ae0ae53f997f5989f5$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$35ae0ae53f997f5989f5$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$35ae0ae53f997f5989f5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$580734bf3e99deddef75$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$580734bf3e99deddef75$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$580734bf3e99deddef75.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$6a880e36d53663c36014$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$6a880e36d53663c36014$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$6a880e36d53663c36014.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$6db82fcac1cc12a51b20$$anonfun$$sbtdef$1$$anonfun$apply$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$6db82fcac1cc12a51b20$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$6db82fcac1cc12a51b20$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$6db82fcac1cc12a51b20.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$792a9f5a72489b3bf702$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$792a9f5a72489b3bf702$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$792a9f5a72489b3bf702.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$79e2d0c829cd14e42605$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$79e2d0c829cd14e42605$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$79e2d0c829cd14e42605.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$98776b7449c7bddf508e$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$98776b7449c7bddf508e$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$98776b7449c7bddf508e.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$c183bf121bd566a8169c$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$c183bf121bd566a8169c$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$c183bf121bd566a8169c.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$d2f2638e55eab9674255$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$d2f2638e55eab9674255$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$d2f2638e55eab9674255.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$ebbcc229030b58476fb5$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$ebbcc229030b58476fb5$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$ebbcc229030b58476fb5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$ee0f8626ab8a1d7287be$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$ee0f8626ab8a1d7287be$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$ee0f8626ab8a1d7287be.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$f6350f06d489967ddeb8$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$f6350f06d489967ddeb8$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$f6350f06d489967ddeb8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/Assignment$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/Assignment$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/Assignment.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/CommonBuild$class.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/CommonBuild.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/GradingFeedback.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/GradingSummary$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/GradingSummary.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/MapMapString$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/MapMapString.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/RecordingLogger$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/RecordingLogger.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anon$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$GradingSummaryUnpickler1$2$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$LimitedStringBuffer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/Settings$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/Settings.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuild$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuild.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$8$$anonfun$apply$10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$8$$anonfun$apply$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$CustomTextOutput.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/StyleChecker.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/$global/$global/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/$global/ivySbt/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/$global/projectDescriptors/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/compile/$global/$global/discoveredMainClasses/data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/compile/compile/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/common/package$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler$$anon$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/common/package$TaskScheduler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/common/package.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweepSequential$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$lineOfSight$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$upsweepSequential$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/LineOfSight$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/LineOfSight$Tree.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/LineOfSight.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$combinedThreshold$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$moneyThreshold$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$totalCoinsThreshold$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/ParallelCountChange.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$$anonfun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$$anonfun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/parprog1-reductions_2.11-0.1-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/test-classes/reductions/LineOfSightSuite$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/test-classes/reductions/LineOfSightSuite$$anonfun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/test-classes/reductions/LineOfSightSuite$$anonfun$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/test-classes/reductions/LineOfSightSuite.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/test-classes/reductions/ParallelCountChangeSuite$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/test-classes/reductions/ParallelCountChangeSuite$$anonfun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/test-classes/reductions/ParallelCountChangeSuite$$anonfun$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/test-classes/reductions/ParallelCountChangeSuite$$anonfun$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/test-classes/reductions/ParallelCountChangeSuite$$anonfun$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/test-classes/reductions/ParallelCountChangeSuite.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/test-classes/reductions/ParallelParenthesesBalancingSuite$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/test-classes/reductions/ParallelParenthesesBalancingSuite$$anonfun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/test-classes/reductions/ParallelParenthesesBalancingSuite$$anonfun$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/test-classes/reductions/ParallelParenthesesBalancingSuite$$anonfun$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/test-classes/reductions/ParallelParenthesesBalancingSuite$$anonfun$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/test-classes/reductions/ParallelParenthesesBalancingSuite$$anonfun$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/test-classes/reductions/ParallelParenthesesBalancingSuite$$anonfun$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/scala-2.11/test-classes/reductions/ParallelParenthesesBalancingSuite.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/$global/ivySbt/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/$global/projectDescriptors/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/compile/$global/$global/discoveredMainClasses/data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/compile/compile/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/compile/console/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/compile/packageSubmission/$global/streams/inputs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/compile/packageSubmission/$global/streams/output" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/$global/$global/definedTestNames/data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/$global/$global/discoveredMainClasses/data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/compile/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/copyResources/$global/streams/copy-resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$06600988e3ed38c24c46$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$06600988e3ed38c24c46.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$78c3f3e9841821b6230a$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$78c3f3e9841821b6230a$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$78c3f3e9841821b6230a.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$7a804650c715f345cedb$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$7a804650c715f345cedb$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$7a804650c715f345cedb.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$a01c620c534c8e381fc1$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$a01c620c534c8e381fc1$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$a01c620c534c8e381fc1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$e3789e46ddbdfccc13fa$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$e3789e46ddbdfccc13fa$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$e3789e46ddbdfccc13fa.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$f21c911b02274a5e8383$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$f21c911b02274a5e8383.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$0b03aea4d6f3bd7c34fc$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$0b03aea4d6f3bd7c34fc$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$0b03aea4d6f3bd7c34fc.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$504eb53883c637b93551$$anonfun$$sbtdef$1$$anonfun$apply$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$504eb53883c637b93551$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$504eb53883c637b93551$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$504eb53883c637b93551.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$61d25b3ca1472ea3ab14$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$61d25b3ca1472ea3ab14$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$61d25b3ca1472ea3ab14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7a4d2a10cc9326d80abc$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7a4d2a10cc9326d80abc$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7a4d2a10cc9326d80abc.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7d34024b9e5501b5564c$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7d34024b9e5501b5564c$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7d34024b9e5501b5564c.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$963d8754c0f6f4bfbd94$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$963d8754c0f6f4bfbd94$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$963d8754c0f6f4bfbd94.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$c60ac25e87c97635bcef$$anonfun$$sbtdef$1$$anonfun$apply$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$c60ac25e87c97635bcef$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$c60ac25e87c97635bcef$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$c60ac25e87c97635bcef.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$c7b1cacc645249aaf711$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$c7b1cacc645249aaf711$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$c7b1cacc645249aaf711.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$ccc239d73d6d7da2c3e7$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$ccc239d73d6d7da2c3e7$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$ccc239d73d6d7da2c3e7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$ce40b4961d4bdffe8c2f$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$ce40b4961d4bdffe8c2f$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$ce40b4961d4bdffe8c2f.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$d405872e958f4f0682ed$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$d405872e958f4f0682ed$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$d405872e958f4f0682ed.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$e41bc72789757ceedc51$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$e41bc72789757ceedc51$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$e41bc72789757ceedc51.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$ff4bd198c283ace8254e$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$ff4bd198c283ace8254e$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$ff4bd198c283ace8254e.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/Assignment$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/Assignment$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/Assignment.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonBuild$class.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonBuild.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/GradingFeedback.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/GradingSummary$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/GradingSummary.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/MapMapString$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/MapMapString.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/RecordingLogger$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/RecordingLogger.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anon$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$GradingSummaryUnpickler1$2$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$LimitedStringBuffer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/Settings$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/Settings.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuild$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuild.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$8$$anonfun$apply$10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$8$$anonfun$apply$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$CustomTextOutput.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StyleChecker.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/$global/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivySbt/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/projectDescriptors/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/$global/$global/discoveredMainClasses/data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/kmeans/epfl-view.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.history" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/ivySbt/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/libraries/SBT__com_github_scala_blitz_scala_blitz_2_11_1_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/libraries/SBT__com_github_wookietreiber_scala_chart_2_11_0_4_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/libraries/SBT__com_storm_enroute_scalameter_2_11_0_6_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/libraries/SBT__com_storm_enroute_scalameter_core_2_11_0_6_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/libraries/SBT__junit_junit_4_10_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/libraries/SBT__org_apache_commons_commons_math3_3_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/libraries/SBT__org_hamcrest_hamcrest_core_1_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/libraries/SBT__org_jfree_jcommon_1_0_21_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/libraries/SBT__org_jfree_jfreechart_1_0_17_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/libraries/SBT__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/libraries/SBT__org_scala_lang_modules_scala_swing_2_11_1_0_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/libraries/SBT__org_scala_tools_testing_test_interface_0_5_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_4_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/libraries/SBT__xml_apis_xml_apis_1_3_04_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/sbt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$188b3a5dff9836017945.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$2bc41fbff3072df2513e.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$326a73d01f7bc0c0d8cc.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$e9b63db92f9eef26466a.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$f6703f381e3a657db42e.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/project/target/config-classes/$f92d32dd217a79960888.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$24b8cc230fc56ae1126e.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$35ae0ae53f997f5989f5.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$580734bf3e99deddef75.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$6a880e36d53663c36014.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$6db82fcac1cc12a51b20.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$792a9f5a72489b3bf702.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$79e2d0c829cd14e42605.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$98776b7449c7bddf508e.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$c183bf121bd566a8169c.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$d2f2638e55eab9674255.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$ebbcc229030b58476fb5.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$ee0f8626ab8a1d7287be.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/config-classes/$f6350f06d489967ddeb8.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/resolution-cache/default/reductions-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/resolution-cache/default/reductions-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/resolution-cache/reports/default-reductions-build-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/resolution-cache/reports/default-reductions-build-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/resolution-cache/reports/default-reductions-build-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/resolution-cache/reports/default-reductions-build-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/resolution-cache/reports/default-reductions-build-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/resolution-cache/reports/default-reductions-build-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/resolution-cache/reports/default-reductions-build-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/resolution-cache/reports/default-reductions-build-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/resolution-cache/reports/default-reductions-build-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/resolution-cache/reports/default-reductions-build-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/resolution-cache/reports/default-reductions-build-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/resolution-cache/reports/default-reductions-build-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/resolution-cache/reports/default-reductions-build-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/resolution-cache/reports/ivy-report.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/resolution-cache/reports/ivy-report.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/classes/sbt/sbt.builds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/scala-2.10/sbt-0.13/resource_managed/main/sbt/sbt.builds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/$global/update/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/compile/copyResources/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/compile/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/compile/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/project/target/streams/runtime/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/.history" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/parprog1-reductions/parprog1-reductions$sources_2.11/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/parprog1-reductions/parprog1-reductions$sources_2.11/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/parprog1-reductions/parprog1-reductions_2.11/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/parprog1-reductions/parprog1-reductions_2.11/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/ivy-report.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/ivy-report.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions$sources_2.11-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions$sources_2.11-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions$sources_2.11-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions$sources_2.11-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions$sources_2.11-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions$sources_2.11-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions$sources_2.11-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions$sources_2.11-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions$sources_2.11-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions$sources_2.11-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions$sources_2.11-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions$sources_2.11-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions$sources_2.11-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions_2.11-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions_2.11-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions_2.11-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions_2.11-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions_2.11-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions_2.11-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions_2.11-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions_2.11-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions_2.11-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions_2.11-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions_2.11-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions_2.11-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/resolution-cache/reports/parprog1-reductions-parprog1-reductions_2.11-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/$global/$global/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/$global/$global/dumpStructure/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/$global/console/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/$global/submit/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/$global/update/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/compile/console/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/compile/copyResources/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/compile/fullClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/compile/packageSubmission/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/compile/runMain/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/compile/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/compile/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/runtime/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/compileIncremental/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/compileIncremental/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/copyResources/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/definedTests/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/fullClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/loadedTestFrameworks/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/test/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/test/$global/streams/succeeded_tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/test/isModule=false name=reductions.LineOfSightSuite/test/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/test/isModule=false name=reductions.ParallelCountChangeSuite/test/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/test/isModule=false name=reductions.ParallelParenthesesBalancingSuite/test/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/streams/test/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/test-reports/reductions.LineOfSightSuite.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/test-reports/reductions.ParallelCountChangeSuite.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week 2/reductions/target/test-reports/reductions.ParallelParenthesesBalancingSuite.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_github_scala_blitz_scala_blitz_2_11_1_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_github_wookietreiber_scala_chart_2_11_0_4_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_storm_enroute_scalameter_2_11_0_6_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_storm_enroute_scalameter_core_2_11_0_6_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__junit_junit_4_10_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_apache_commons_commons_math3_3_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_hamcrest_hamcrest_core_1_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_jfree_jcommon_1_0_21_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_jfree_jfreechart_1_0_17_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_modules_scala_swing_2_11_1_0_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_tools_testing_test_interface_0_5_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_4_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__xml_apis_xml_apis_1_3_04_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/root-build.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/root.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment.sbt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.sbt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/CommonBuild.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/GradingFeedback.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/ScalaTestRunner.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/Settings.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/StudentBuild.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/StudentBuildLike.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/StyleChecker.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/build.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/buildSettings.sbt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/plugins.sbt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$06600988e3ed38c24c46.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$78c3f3e9841821b6230a.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$7a804650c715f345cedb.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$a01c620c534c8e381fc1.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$e3789e46ddbdfccc13fa.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$f21c911b02274a5e8383.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$0b03aea4d6f3bd7c34fc.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$504eb53883c637b93551.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$61d25b3ca1472ea3ab14.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7a4d2a10cc9326d80abc.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7d34024b9e5501b5564c.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$963d8754c0f6f4bfbd94.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$c60ac25e87c97635bcef.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$c7b1cacc645249aaf711.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$ccc239d73d6d7da2c3e7.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$ce40b4961d4bdffe8c2f.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$d405872e958f4f0682ed.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$e41bc72789757ceedc51.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$ff4bd198c283ace8254e.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/kmeans-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/kmeans-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-kmeans-build-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-kmeans-build-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-kmeans-build-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-kmeans-build-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-kmeans-build-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-kmeans-build-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-kmeans-build-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-kmeans-build-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-kmeans-build-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-kmeans-build-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-kmeans-build-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-kmeans-build-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-kmeans-build-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/ivy-report.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/ivy-report.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbt/sbt.builds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resource_managed/main/sbt/sbt.builds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/common/package.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/kmeans/KMeans.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/kmeans/fun/IndexedColors.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/kmeans/fun/PhotoCanvas.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/kmeans/fun/ScalaShop.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/kmeans/fun/package.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/kmeans/KMeansSuite.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/parprog1-kmeans/parprog1-kmeans$sources_2.11/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/parprog1-kmeans/parprog1-kmeans$sources_2.11/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/parprog1-kmeans/parprog1-kmeans_2.11/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/parprog1-kmeans/parprog1-kmeans_2.11/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ivy-report.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ivy-report.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans$sources_2.11-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans$sources_2.11-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans$sources_2.11-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans$sources_2.11-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans$sources_2.11-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans$sources_2.11-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans$sources_2.11-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans$sources_2.11-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans$sources_2.11-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans$sources_2.11-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans$sources_2.11-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans$sources_2.11-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans$sources_2.11-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans_2.11-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans_2.11-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans_2.11-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans_2.11-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans_2.11-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans_2.11-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans_2.11-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans_2.11-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans_2.11-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans_2.11-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans_2.11-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans_2.11-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/parprog1-kmeans-parprog1-kmeans_2.11-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Week 2/reductions/.idea/modules/root.iml" afterPath="$PROJECT_DIR$/../../Week 2/reductions/.idea/modules/root.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Week 2/reductions/src/main/scala/reductions/LineOfSight.scala" afterPath="$PROJECT_DIR$/../../Week 2/reductions/src/main/scala/reductions/LineOfSight.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Week 2/reductions/src/main/scala/reductions/ParallelCountChange.scala" afterPath="$PROJECT_DIR$/../../Week 2/reductions/src/main/scala/reductions/ParallelCountChange.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Week 2/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" afterPath="$PROJECT_DIR$/../../Week 2/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Week 2/reductions/src/test/scala/reductions/ParallelParenthesesBalancingSuite.scala" afterPath="$PROJECT_DIR$/../../Week 2/reductions/src/test/scala/reductions/ParallelParenthesesBalancingSuite.scala" />
+    </list>
+    <ignored path="kmeans.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="kmeans" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="KMeans.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/kmeans/KMeans.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="49" />
+    <option name="y" value="24" />
+    <option name="width" value="1871" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parprog1-kmeans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parprog1-kmeans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmeans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parprog1-kmeans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmeans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parprog1-kmeans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmeans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parprog1-kmeans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmeans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmeans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KMeans.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parprog1-kmeans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmeans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmeans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parprog1-kmeans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmeans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parprog1-kmeans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kmeans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1478979201776" />
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="parprog1-kmeans" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="root-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Week 2/reductions" value="1465233682000" />
+        <entry key="$PROJECT_DIR$/../../../progfun1/funsets" value="1462316240000" />
+        <entry key="$PROJECT_DIR$/../../../progfun1/objsets" value="1462319246000" />
+        <entry key="$PROJECT_DIR$/../../../progfun1/recfun" value="1462365530000" />
+        <entry key="$PROJECT_DIR$/../../../progfun2/Lecture1/example" value="1457113070000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f258a5e4-5efb-4ec6-98ff-c28d2a21f5b9" name="Default" comment="" />
+      <created>1478979183870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1478979183870</updated>
+      <workItem from="1478979189062" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="51000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="49" y="24" width="1871" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986301" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/kmeans/KMeans.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
